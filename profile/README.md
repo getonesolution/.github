@@ -1,12 +1,18 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, We are getOne Platform</h1>
+<h3 align="center">getOne Team</h3>
 
-<!--
+<h2 align="center"> Introduction </h2>
+This is the organization of getOne project which was established for the simple solution for modern e-commerce.
 
-**Here are some ideas to get you started:**
+We are innovate this project to go to the moon.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<h2 align="center"> Technology Stack </h2>
+
+- Backend: Java + Spring Boot (monorepo)
+- Frontend: Vuejs + Nuxt.js + PrimeVue (monorepo)
+- Database: PostgreSQL (+ pgvector)
+- Search engine: Elasticsearch
+- Cache: Valkey (forked by Redis)
+
+
+<h2 align="center">Based-on</h2>
